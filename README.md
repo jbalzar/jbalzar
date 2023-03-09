@@ -1,3 +1,3 @@
 Hey there! 👋
 
-I'm Jessie, a full-stack web developer and DevOps enthusiast based in the Philippines.
+I'm Jessie, a Full-Stack web developer and DevOps enthusiast based in the Philippines.
